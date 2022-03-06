@@ -1,0 +1,9 @@
+body {
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+h1 {
+    font-size: 350% ;
+    color: rgba(0, 0, 255, 0.849);
+}
