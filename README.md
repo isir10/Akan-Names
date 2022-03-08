@@ -1,6 +1,6 @@
 # {APPLICATION} 
  AKAN NAMES
-#### By **{AUTHOR; ISIR MALAK}**
+#### AUTHOR; ISIR MALAK**
 ## Description
 This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 ## Setup/Installation Requirements
@@ -23,6 +23,6 @@ there is some spacing issues with the output.
 If you have any questions or contributions, please email me at [isir.malak@student.moringa.school.com]
 ### License
 * MIT
-Copyright (c) {year} **{List of contributors or company name}** Copyright(c)2022.ISIRMALAK* 
+**{List of contributors or company name}** Copyright(c)2022. ISIRMALAK* 
 
   
