@@ -7,3 +7,77 @@ h1 {
     font-size: 350% ;
     color: rgba(0, 0, 255, 0.849);
 }
+p {
+   font-size: 100%;
+}
+.login-page {
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+.form{
+    position: relative;
+    z-index: 1;
+    background: #069de4;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+
+}
+.form input {
+    font-family: "Roboto", sans-serif;
+    outline: 1;
+    background: #f0d806;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.form submit {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #4CAF50;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+.gender {
+    font-size: 150%;
+    background-color: #c02c12f3;
+    padding: 0%;
+    margin: auto;
+    align-items: center
+}
+
+.submit {
+    font-size: 145%;
+    position: relative, centre;
+    margin: auto;
+    padding: 0%;
+    width: fit-content;
+    background-color: #f0d906f1;
+}
+ #btn {
+    background-color: #f0d906ec;
+    font-size: 155%;
+}
+ #message {
+     font-size: 125%;
+     color: #071b8aec;
+ }
+#date-message {
+    font-size: 125%;
+    color: #1b2dccf5;
+}
+#em
+{
+    font-size: 150%;
+    color: #b81207;
+}

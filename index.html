@@ -10,6 +10,37 @@
 </head>
 <body background="images/pic.jpg">
     <h1>AKAN NAMES</h1>
+    <div>
     <p> Akan names are derived from ghanian culture. In Ghana children are often given their first name as a "day" name which corresponds with the day they were born.</p>
+    <p>This application will help you find out the day of the week you were born and the akan name corresponding with you birthday and gender.</p>
+    <p>Fill the form below with the information of your birth date and gender to know your Akan name.</p>
+    </div>
+    <div class="jumbotron col-md-6">
+      <p id="message"></p>
+      <p id="date-message"></p>
+      <form id="myform">
+      <div class="login-page">
+      <div class="form">
+        <label for="day"></label>Day</label>
+        <input type="text" id="dd" placeholder="day" required>
+        <label for="month">Month</label>
+        <input type="text" id="mm" placeholder="month" required>
+        <label for="year">Year</label>
+        <input type="text" id="yy" placeholder="year" required>
+        </div>
+      <div class="gender">
+        <label for="gender"><em>CHOOSE YOUR GENDER</em></label>
+        <select name="gender" id="gender">
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+        </select>
+      </div>
+      <div class="submit">
+        <button type="submit" id="btn">submit</button> 
+    </div>
+      </div>
+    </form>
+      </div>
+    <script src="JS/script.js"></script>
 </body>
 </html>
